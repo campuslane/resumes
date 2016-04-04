@@ -27,6 +27,8 @@ class CreateItemsTable extends Migration
             $table->string('job_role')->nullable();
             $table->string('job_start_month')->nullable();
             $table->string('job_start_year')->nullable();
+            $table->string('job_end_month')->nullable();
+            $table->string('job_end_year')->nullable();
             $table->text('job_content');
 
             $table->string('education_school')->nullable();

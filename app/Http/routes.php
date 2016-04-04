@@ -15,11 +15,11 @@ use App\Models\Resume;
 
 Route::get('/', function () {
 
-	$resume = Resume::with('jobs')->find(1);
+	//$resume = Resume::with('items')->find(1);
 
     return view('resumes.resume');
 });
 
 Route::post('/resume', function(){
-	return Resume::with('jobs')->find(1)->jobs;
+	return Resume::with('items')->find(1)->items;
 });

@@ -10,8 +10,8 @@ class Resume extends Model
 
     protected $guarded = ['id'];
 
-    public function jobs()
+    public function items()
     {
-    	return $this->hasMany('App\Models\Job');
+    	return $this->hasMany('App\Models\Item');
     }
 }
