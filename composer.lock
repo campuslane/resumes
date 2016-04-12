@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4f42c93bdf8561c474da7a303c82c8a7",
+    "hash": "eb07644d75848cdd889695036f594776",
     "content-hash": "5251c7120d0a27682df72035ec17eaea",
     "packages": [
         {
@@ -316,7 +316,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/4461e6fb5bad824c2d271e235b427cbcc9f12b22",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/2eb5551b92a89ae2481fbf9aaf2ecee7aa1b4c45",
                 "reference": "4461e6fb5bad824c2d271e235b427cbcc9f12b22",
                 "shasum": ""
             },
@@ -573,7 +573,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/064b38c16790249488e7a8b987acf1c9d7383c09",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/a7ade9d68f41bf6b01cc6121635c87b4420a5b46",
                 "reference": "064b38c16790249488e7a8b987acf1c9d7383c09",
                 "shasum": ""
             },
@@ -742,7 +742,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/9ac359219064a9c4a5f8dc13887c6de4ca49863a",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/e7f0860d85ba80c8e858278393cd0b0b67941276",
                 "reference": "9ac359219064a9c4a5f8dc13887c6de4ca49863a",
                 "shasum": ""
             },
@@ -933,7 +933,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPOffice/PHPWord/zipball/28f801b5d063995e4251ee9b02704b0f9013d56a",
+                "url": "https://api.github.com/repos/PHPOffice/PHPWord/zipball/1c5bb3a91154008ecedec1830f96d7be35ef04ac",
                 "reference": "28f801b5d063995e4251ee9b02704b0f9013d56a",
                 "shasum": ""
             },
@@ -2275,7 +2275,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/8deb6343c80c4edf546a6fff01a2b05c7dc59ac4",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/684eab1624a66a4c37762c747c88a7f8664c65bf",
                 "reference": "8deb6343c80c4edf546a6fff01a2b05c7dc59ac4",
                 "shasum": ""
             },
@@ -2792,7 +2792,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/d667a50e195cb539fb88d866f0ce50496997622a",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/f9733ae34271bec6a6a6a1d4e9a8dd28f2ac1628",
                 "reference": "d667a50e195cb539fb88d866f0ce50496997622a",
                 "shasum": ""
             },

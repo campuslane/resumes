@@ -279,7 +279,14 @@
 		});
 
 		$(document).on('dblclick', '.sortable-item', function(e){
+
+			
 			e.preventDefault();
+
+			$('#myModal').modal('show');
+			$('.modal-title').html('Edit Job Experience');
+			$('.modal-body').html('loading...');
+
 
 			var id = parseInt($(this).attr('id').replace('item_', ''));
 
@@ -293,7 +300,7 @@
 					var template = Handlebars.compile(source);
 					var html  = template(item);
 
-					$('.modal-title').html('Edit Job Experience');
+					
 					$('.modal-body').html(html);
 					$('.summernote').summernote({
 						minHeight: 300, 
@@ -319,7 +326,7 @@
 
 					$('.save-job-button').remove();
 					$('.dismiss-button').after('<button type="button" class="btn btn-primary save-job-button">Save Job</button>')
-					$('#myModal').modal('show');
+					
 				}
 			});
 
